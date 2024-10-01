@@ -1,2 +1,2 @@
 # cpp-project
-c++ things
+c++ and other gi things
